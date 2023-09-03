@@ -1,87 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alias Lucknow - Open Source Community</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
+# Welcome to Alias Lucknow - An Open Source Community
 
-        .header {
-            background-color: #007BFF;
-            color: #fff;
-            padding: 50px 0;
-        }
+![Alias Lucknow Logo](your-logo-url.png)
 
-        .header img {
-            width: 120px;
-            height: 120px;
-            border-radius: 50%;
-        }
+Alias Lucknow is a vibrant and inclusive open-source community based in Lucknow, India. We are dedicated to fostering collaboration, innovation, and knowledge sharing in the world of open source software and technology.
 
-        .container {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin: 20px;
-        }
+## Our Mission
 
-        .section-title {
-            font-size: 24px;
-            margin-top: 20px;
-        }
+At Alias Lucknow, our mission is to:
 
-        .section-content {
-            font-size: 18px;
-            line-height: 1.5;
-            margin: 20px 0;
-        }
+- **Promote Open Source:** We believe in the power of open source software to transform industries and drive technological advancements. We actively promote the adoption of open source solutions.
 
-        .button {
-            background-color: #007BFF;
-            color: #fff;
-            padding: 10px 20px;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <header class="header">
-        <img src="your-logo-url.png" alt="Alias Lucknow Logo">
-        <h1>Welcome to Alias Lucknow</h1>
-        <p>An Open Source Community</p>
-    </header>
-    
-    <div class="container">
-        <section>
-            <h2 class="section-title">Our Mission</h2>
-            <p class="section-content">At Alias Lucknow, our mission is to promote open source, build a supportive community, and empower learning in open source technologies.</p>
-        </section>
-        
-        <section>
-            <h2 class="section-title">Get Involved</h2>
-            <p class="section-content">Join us in our journey towards open source excellence. Attend our events, contribute to projects, and join our online community to connect with like-minded individuals.</p>
-            <a class="button" href="#">Join Now</a>
-        </section>
+- **Build a Supportive Community:** We aim to create a welcoming and supportive environment for individuals of all backgrounds and skill levels who are interested in open source technologies.
 
-        <section>
-            <h2 class="section-title">Contact Us</h2>
-            <p class="section-content">Have questions or want to collaborate? Reach out to us via email, social media, or our discussion forums.</p>
-            <ul>
-                <li>Email: [contact@aliaslucknow.org](mailto:contact@aliaslucknow.org)</li>
-                <li>Twitter: [@AliasLucknow](https://twitter.com/AliasLucknow)</li>
-                <li>LinkedIn: [Alias Lucknow](https://www.linkedin.com/company/aliaslucknow)</li>
-            </ul>
-        </section>
-    </div>
-</body>
-</html>
+- **Empower Learning:** We organize workshops, hackathons, and meetups to facilitate learning and skill development in open source technologies.
+
+## Get Involved
+
+Join us in our journey towards open source excellence. Here's how you can get involved:
+
+### Attend Our Events
+
+Stay updated with our upcoming events, including:
+
+- **Tech Talks:** Engage with industry experts and thought leaders in open source technology.
+
+- **Hackathons:** Collaborate on exciting open source projects and showcase your skills.
+
+- **Workshops:** Learn from hands-on workshops designed to enhance your proficiency in open source tools and platforms.
+
+### Contribute to Projects
+
+Be part of our community-driven open source projects. Contribute your skills and ideas to make a difference.
+
+### Join Our Online Community
+
+Connect with us on our online platforms:
+
+- **GitHub:** Explore our repositories and contribute to open source projects.
+
+- **Discussion Forums:** Participate in discussions, seek help, and share your knowledge.
+
+- **Social Media:** Follow us on Twitter, Facebook, and LinkedIn to stay connected and informed.
+
+## Contact Us
+
+Have questions or want to collaborate? Reach out to us:
+
+- **Email:** [contact@aliaslucknow.org](mailto:contact@aliaslucknow.org)
+
+- **Twitter:** [@AliasLucknow](https://twitter.com/AliasLucknow)
+
+- **LinkedIn:** [Alias Lucknow](https://www.linkedin.com/company/aliaslucknow)
+
+We look forward to having you as part of our vibrant open-source community! Together, we can make a meaningful impact in the world of technology.
+
